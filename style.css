@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+}
+
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    margin: 0.8rem;
+}
+
+ul, p {
+    font-family: 'arial';
+    margin: 0.8rem;
+}
